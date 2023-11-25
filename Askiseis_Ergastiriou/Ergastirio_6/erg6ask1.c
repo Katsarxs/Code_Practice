@@ -9,7 +9,7 @@ If the average grade is more than 5, displays the message "Average grade more th
 
 */
 
-int main() {
+int main(void) {
 
     float a, b, c;
 

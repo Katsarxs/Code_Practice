@@ -12,7 +12,7 @@ needs fixes...
 
 */
 
-int main() {
+int main(void) {
 
     int a;
 

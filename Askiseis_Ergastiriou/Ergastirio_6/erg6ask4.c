@@ -8,7 +8,7 @@ A program that reads four integers and displays the smallest of them.
 
 */
 
-int main() {
+int main(void) {
 
     int a, b, c, d, min;
 

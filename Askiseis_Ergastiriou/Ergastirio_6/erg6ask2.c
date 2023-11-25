@@ -8,7 +8,7 @@ A program in C that accepts 3 student grades and in the case that all grades are
 
 */
 
-int main() {
+int main(void) {
 
     float a, b, c;
 
