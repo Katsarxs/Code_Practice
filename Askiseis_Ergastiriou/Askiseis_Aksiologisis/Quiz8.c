@@ -1,8 +1,26 @@
-#include <stdio.h>
+#include <stdio.h> // Include standard input/output library.
 
-float get_tax(int, char, float);
+/*
 
-/*int main(void) {
+Assessment Exercise 8
+
+Write a function with signature: float get_tax(int ​​region, char type, float price) which has 3 parameters, the region code, the VAT rate code (character 'N', 'R' or 'L' and the value of a product and returns the tax for the product (product price x VAT rate).The following table is given for the VAT rate:
+
+Area code Normal rate (N) Reduced rate (R) Overrated rate (L)
+16        24%             13%              6%
+57        24%             13%              6%
+41        24%             13%              6%
+83        17%             9%               4%
+85        17%             9%               4%
+81        17%             9%               4%
+
+*/
+
+float get_tax(int, char, float); // Function prototype for get_tax.
+
+/*
+
+int main(void) {
 
     printf("%.2f\n", get_tax(16, 'N', 100.00));
 
@@ -17,58 +35,57 @@ float get_tax(int, char, float);
 
 float get_tax(int region, char type, float price) {
 
-    float x;
+    float x; // Variable to hold VAT rate.
 
-    float tax;
+    float tax; // Variable to hold calculated tax amount.
 
-    if (region == 16 || region == 57 || region == 41) {
+    // Determine VAT rate based on region and type.
 
-        if (type == 'N') {
+    if (region == 16 || region == 57 || region == 41) { // For regions 16, 57, and 41.
 
-            x = 0.24;
+        if (type == 'N') { // For normal rate.
 
-        }
-
-        else if (type == 'R') {
-
-            x = 0.13;
+            x = 0.24; // Set VAT rate.
 
         }
 
-        else if (type == 'L') {
+        else if (type == 'R') { // For reduced rate.
 
-            x = 0.06;
-
-
-        }
-
-    }
-
-    else if (region == 83 || region == 85 || region == 81) {
-
-        if (type == 'N') {
-
-            x = 0.17;
+            x = 0.13; // Set VAT rate.
 
         }
 
-        else if (type == 'R') {
+        else if (type == 'L') { // For overrated rate.
 
-            x = 0.09;
-
-        }
-
-        else if (type == 'L') {
-
-            x = 0.04;
-
+            x = 0.06; // Set VAT rate.
 
         }
 
     }
 
-    tax = price * x;
+    else if (region == 83 || region == 85 || region == 81) { // For regions 83, 85, and 81.
 
-    return tax;
+        if (type == 'N') { // For normal rate.
+
+            x = 0.17; // Set VAT rate.
+
+        }
+
+        else if (type == 'R') { // For reduced rate.
+
+            x = 0.09; // Set VAT rate.
+
+        }
+
+        else if (type == 'L') { // For overrated rate.
+
+            x = 0.04; // Set VAT rate.
+            
+        }
+    }
+
+    tax = price * x; // Calculate tax amount.
+
+    return tax; // Return calculated tax amount.
 
 }
