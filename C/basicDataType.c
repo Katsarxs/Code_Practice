@@ -41,7 +41,7 @@ int main() {
    
     int a_int;
 
-    signed a_int;
+    signed a_signed;
 
     signed int a_signed_int;
 
