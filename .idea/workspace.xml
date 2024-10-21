@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="16705fcc-bc90-4cdb-b8ac-15a6c016107e" name="Changes" comment="DialogMaxInteger.java added.">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Code_Practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Lab_Exercises/LabNo2/Lab2a/Lab2a.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/tasks.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Katsarxs&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Katsarxs/Code_Practice.git&quot;,
+    &quot;accountId&quot;: &quot;bdea5776-c903-4755-ae54-fa850e4c45e3&quot;
+  }
+}</component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2nQKyiIb6HnvMKLdkHthY5WNETk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Unnamed.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/User/IdeaProjects/Code_Practice/Java/Extra",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\Code_Practice\Java\Extra" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\Code_Practice\Java\Lab_Exercises\LabNo2" />
+      <recent name="C:\Users\User\IdeaProjects\Code_Practice\Java\Lab_Exercises\LabNo2a" />
+      <recent name="C:\Users\User\IdeaProjects\Code_Practice\Java\Lab_Exercises\LabNo2\Lab2a" />
+      <recent name="C:\Users\User\IdeaProjects\Code_Practice" />
+      <recent name="C:\Users\User\IdeaProjects\Code_Practice\Java" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16705fcc-bc90-4cdb-b8ac-15a6c016107e" name="Changes" comment="" />
+      <created>1728900115736</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728900115736</updated>
+      <workItem from="1728900116814" duration="854000" />
+      <workItem from="1728912914340" duration="1480000" />
+      <workItem from="1728914434606" duration="865000" />
+      <workItem from="1728918262284" duration="14000" />
+      <workItem from="1728921469744" duration="184000" />
+      <workItem from="1729010785760" duration="419000" />
+      <workItem from="1729435340798" duration="656000" />
+      <workItem from="1729445027363" duration="310000" />
+      <workItem from="1729445363300" duration="116000" />
+      <workItem from="1729452969131" duration="435000" />
+      <workItem from="1729455749165" duration="897000" />
+      <workItem from="1729517579066" duration="306000" />
+      <workItem from="1729533947672" duration="55000" />
+      <workItem from="1729536526847" duration="1248000" />
+    </task>
+    <task id="LOCAL-00001" summary="Java added.">
+      <option name="closed" value="true" />
+      <created>1728914889189</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728914889189</updated>
+    </task>
+    <task id="LOCAL-00002" summary="IntegerReader.java added.">
+      <option name="closed" value="true" />
+      <created>1728921638413</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728921638414</updated>
+    </task>
+    <task id="LOCAL-00003" summary="IntegerReader.java added and changes.">
+      <option name="closed" value="true" />
+      <created>1729453261816</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729453261816</updated>
+    </task>
+    <task id="LOCAL-00004" summary="DialogMaxInteger.java added.">
+      <option name="closed" value="true" />
+      <created>1729457411456</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729457411456</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update README.md&#10;&#10;New IDE in use (IntelliJIDEA).&#10;New Programming Language (Java)." />
+    <MESSAGE value="Java added." />
+    <MESSAGE value="IntegerReader.java added." />
+    <MESSAGE value="IntegerReader.java added and changes." />
+    <MESSAGE value="DialogMaxInteger.java added." />
+    <option name="LAST_COMMIT_MESSAGE" value="DialogMaxInteger.java added." />
+  </component>
+</project>
