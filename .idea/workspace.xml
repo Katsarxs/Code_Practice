@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16705fcc-bc90-4cdb-b8ac-15a6c016107e" name="Changes" comment="Lab 2 added and changes.">
+    <list default="true" id="16705fcc-bc90-4cdb-b8ac-15a6c016107e" name="Changes" comment="MortgageCalculator extended and clean coded.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +50,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/User/IdeaProjects/Code_Practice",
+    "last_opened_file_path": "C:/Users/User/IdeaProjects/Code_Practice/Java/Extra",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -119,6 +119,10 @@
       <workItem from="1729536526847" duration="1919000" />
       <workItem from="1729607286310" duration="59000" />
       <workItem from="1729607352254" duration="259000" />
+      <workItem from="1729607628710" duration="186000" />
+      <workItem from="1730124409861" duration="1890000" />
+      <workItem from="1730135646941" duration="25000" />
+      <workItem from="1730137520492" duration="1747000" />
     </task>
     <task id="LOCAL-00001" summary="Java added.">
       <option name="closed" value="true" />
@@ -160,7 +164,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729538608647</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="MortgageCalculator extended and clean coded.">
+      <option name="closed" value="true" />
+      <created>1729607754814</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1729607754814</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,6 +196,7 @@
     <MESSAGE value="IntegerReader.java added and changes." />
     <MESSAGE value="DialogMaxInteger.java added." />
     <MESSAGE value="Lab 2 added and changes." />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab 2 added and changes." />
+    <MESSAGE value="MortgageCalculator extended and clean coded." />
+    <option name="LAST_COMMIT_MESSAGE" value="MortgageCalculator extended and clean coded." />
   </component>
 </project>
