@@ -1,6 +1,6 @@
 # Laboratory's Exercises 💻
 
-_Basically, this a project which I include all the programs I'm required to code in Univesity (ICSD)._
+_Basically, this a project which I include all the programs I'm required to code in Univesity ICSD (And not only...)._
 
 #### Platform : 
 
