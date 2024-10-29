@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16705fcc-bc90-4cdb-b8ac-15a6c016107e" name="Changes" comment="MortgageCalculator extended and clean coded.">
+    <list default="true" id="16705fcc-bc90-4cdb-b8ac-15a6c016107e" name="Changes" comment="New Exercises.">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +22,9 @@
     &quot;assignee&quot;: &quot;Katsarxs&quot;
   }
 }</component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="bdea5776-c903-4755-ae54-fa850e4c45e3" />
+  </component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Katsarxs/Code_Practice.git&quot;,
@@ -50,13 +54,13 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/User/IdeaProjects/Code_Practice/Java/Extra",
+    "last_opened_file_path": "C:/Users/User/IdeaProjects",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -123,6 +127,13 @@
       <workItem from="1730124409861" duration="1890000" />
       <workItem from="1730135646941" duration="25000" />
       <workItem from="1730137520492" duration="1747000" />
+      <workItem from="1730149356304" duration="527000" />
+      <workItem from="1730152152177" duration="29000" />
+      <workItem from="1730209035640" duration="230000" />
+      <workItem from="1730216655350" duration="40000" />
+      <workItem from="1730217232273" duration="25000" />
+      <workItem from="1730217263723" duration="91000" />
+      <workItem from="1730217391589" duration="237000" />
     </task>
     <task id="LOCAL-00001" summary="Java added.">
       <option name="closed" value="true" />
@@ -172,7 +183,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729607754814</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="New Exercises.">
+      <option name="closed" value="true" />
+      <created>1730149449479</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1730149449479</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,6 +216,7 @@
     <MESSAGE value="DialogMaxInteger.java added." />
     <MESSAGE value="Lab 2 added and changes." />
     <MESSAGE value="MortgageCalculator extended and clean coded." />
-    <option name="LAST_COMMIT_MESSAGE" value="MortgageCalculator extended and clean coded." />
+    <MESSAGE value="New Exercises." />
+    <option name="LAST_COMMIT_MESSAGE" value="New Exercises." />
   </component>
 </project>
